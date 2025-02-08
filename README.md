@@ -6,6 +6,7 @@
 - 🎯 My goal is to become a full-stack developer
 - 👯 I’m looking to collaborate on any kind of projects
 - 📫 How to reach me: **arthur.horeanu@gmail.com**
+- ⚡ Fun fact: Somewhere out there, a Wikipedia page you’ve read might have my edits on it — I've been at it for nearly a decade!
 
 ## Languages and Tools:  
 
