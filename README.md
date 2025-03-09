@@ -23,6 +23,8 @@
 
 ## Portfolio
 ### Completed
+#### Business Management
+- [Restaurant Management App](https://github.com/arthurhoreanu/RestaurantManagementApp) (Python)
 #### Games
 - [Rock-Paper-Scissors](https://github.com/arthurhoreanu/RockPaperScissors) (Python)
 - [Sketch2Keep](https://github.com/arthurhoreanu/Sketch2Keep) (Python)
