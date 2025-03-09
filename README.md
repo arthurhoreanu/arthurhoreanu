@@ -22,10 +22,15 @@
 </p>
 
 ## Portfolio
+
+### Work in Progress
+- [Ticket Sales App](https://github.com/arthurhoreanu/TicketSalesApp) (Java, adding Spring Boot)
+
 ### Completed
 #### Business Management
 - [Car Sharing App](https://github.com/arthurhoreanu/CarSharingApp) (C++)
 - [Restaurant Management App](https://github.com/arthurhoreanu/RestaurantManagementApp) (Python)
 #### Games
+- [Wordle](https://github.com/arthurhoreanu/Wordle) (PHP Client / Python Server)
 - [Rock-Paper-Scissors](https://github.com/arthurhoreanu/RockPaperScissors) (Python)
 - [Sketch2Keep](https://github.com/arthurhoreanu/Sketch2Keep) (Python)
