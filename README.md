@@ -24,6 +24,7 @@
 ## Portfolio
 ### Completed
 #### Business Management
+- [Car Sharing App](https://github.com/arthurhoreanu/CarSharingApp) (C++)
 - [Restaurant Management App](https://github.com/arthurhoreanu/RestaurantManagementApp) (Python)
 #### Games
 - [Rock-Paper-Scissors](https://github.com/arthurhoreanu/RockPaperScissors) (Python)
