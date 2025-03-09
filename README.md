@@ -24,4 +24,5 @@
 ## Portfolio
 ### Completed
 #### Games
+- [Rock-Paper-Scissors](https://github.com/arthurhoreanu/RockPaperScissors) (Python)
 - [Sketch2Keep](https://github.com/arthurhoreanu/Sketch2Keep) (Python)
