@@ -29,6 +29,7 @@
 ### Completed
 #### Business Management
 - [Car Sharing App](https://github.com/arthurhoreanu/CarSharingApp) (C++)
+- [Pharmacy Management App](https://github.com/arthurhoreanu/PharmacyManagementApp) (C++)
 - [Restaurant Management App](https://github.com/arthurhoreanu/RestaurantManagementApp) (Python)
 #### Games
 - [Wordle](https://github.com/arthurhoreanu/Wordle) (PHP Client / Python Server)
