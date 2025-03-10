@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently studying Computer Science at the Babeș-Bolyai University in Cluj-Napoca, Romania
 - 💡 I’m passionate about Software Development and Object-Oriented Programming
-- 🔭 I’m currently working on an app development project
 - 🎯 My goal is to become a full-stack developer
 - 👯 I’m looking to collaborate on any kind of projects
 - 📫 How to reach me: **arthur.horeanu@gmail.com**
@@ -24,6 +23,7 @@
 ## Portfolio
 
 ### Work in Progress
+- [PlaylistXchange](https://github.com/arthurhoreanu/PlaylistXchange) (Java + Spring Boot: Back-end / React.js: Front-end)
 - [Ticket Sales App](https://github.com/arthurhoreanu/TicketSalesApp) (Java, adding Spring Boot)
 
 ### Completed
