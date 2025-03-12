@@ -27,7 +27,8 @@
 - [Ticket Sales App](https://github.com/arthurhoreanu/TicketSalesApp) (Java, adding Spring Boot)
 
 ### Completed
-#### Business Management
+#### Management
+- [Multi-Database CRUD University](https://github.com/arthurhoreanu/MultiDatabaseCRUDUniversity) (Java/SQL Server, Python/MySQL, C++/PostgreSQL)
 - [Car Sharing App](https://github.com/arthurhoreanu/CarSharingApp) (C++)
 - [Pharmacy Management App](https://github.com/arthurhoreanu/PharmacyManagementApp) (C++)
 - [Restaurant Management App](https://github.com/arthurhoreanu/RestaurantManagementApp) (Python)
