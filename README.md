@@ -24,7 +24,7 @@
 
 ### Work in Progress
 - [PlaylistXchange](https://github.com/arthurhoreanu/PlaylistXchange) (Java + Spring Boot: Back-end / React.js: Front-end)
-- [Ticket Sales App](https://github.com/arthurhoreanu/TicketSalesApp) (Java, adding Spring Boot)
+- [Ticket Sales App](https://github.com/arthurhoreanu/TicketSalesApp) (Java + Spring Boot: Back-end / React.js: Front-end)
 
 ### Completed
 #### Management
