@@ -28,6 +28,7 @@
 
 ### Completed
 #### Management
+- [Record Label Database: Concurrency and GUI](https://github.com/arthurhoreanu/RecordLabelDBConcurrencyGUI) (Java + Python / PostgreSQL + MySQL)
 - [Multi-Database CRUD University](https://github.com/arthurhoreanu/MultiDatabaseCRUDUniversity) (Java/SQL Server, Python/MySQL, C++/PostgreSQL)
 - [Car Sharing App](https://github.com/arthurhoreanu/CarSharingApp) (C++)
 - [Pharmacy Management App](https://github.com/arthurhoreanu/PharmacyManagementApp) (C++)
